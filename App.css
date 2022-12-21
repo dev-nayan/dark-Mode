@@ -1,0 +1,79 @@
+.banner-card{
+  width : 98vw;
+  margin-top :2vh;
+  position : relative;
+  margin-bottom: 3vh;
+  background-color: black;
+ 
+  
+}
+
+
+
+.banner-img{
+  height: 75vh;
+  width: 100%;
+  padding: 1.3rem;
+ 
+  
+  
+}
+
+
+
+.banner-title{
+  position: absolute;
+  font-size: 50px;
+  color: silver;
+  top : 50vh;
+  left :4vw;
+  
+}
+
+
+.banner-writeup{
+  position: absolute;
+  top : 60vh;
+  color : white;
+  font-size: 20px;
+  left :4.5vw;
+  right : 4vw;
+  
+
+
+}
+.movies-list{
+  display: flex;
+ 
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+.movie-card{
+  margin : 1rem;
+  border: none;
+  width : 20vw;
+  position :relative;
+  height: 30vh;
+}
+
+.movie-title{
+  margin-left: 2rem;
+  margin-right: 2rem;
+  position: absolute;
+  top: 1rem;
+  color: silver;
+}
+.movies-button{
+ position:absolute;
+ bottom: 1.5rem;
+ left : 6.5rem;
+ border: None;
+}
+.movie-img {
+  height: 100%;
+}
+.favourite-row{
+
+  width: 98vw;
+}
